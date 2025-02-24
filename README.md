@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShanawazAlam007
 - 👀 I’m interested in Coding and Problem-solving 
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Cyber Security and Software Development 
+- 💞️ I’m looking to collaborate on Cyber Security Projects
 - 📫 How to reach me 22052755@kiit.ac.in
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
